@@ -13,7 +13,7 @@ A modern, secure portfolio management application built with Spring Boot and Rea
 ## 🛠️ Tech Stack
 
 ### Backend
-- **Spring Boot 3.2** - Java 21 application framework
+- **Spring Boot 3.2** - Java 17 application framework
 - **PostgreSQL** - Production database
 - **Flyway** - Database migrations
 - **Spring Security** - Authentication and authorization
@@ -28,7 +28,7 @@ A modern, secure portfolio management application built with Spring Boot and Rea
 ## 🚀 Quick Start
 
 ### Prerequisites
-- Java 21+
+- Java 17+
 - Node.js 18+
 - PostgreSQL 12+
 
